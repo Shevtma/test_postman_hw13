@@ -5,7 +5,7 @@ name: CI
 # Controls when the workflow will run
 on:
   schedule:
-    # Runs "at minute 55 past every hour" (see https://crontab.guru)
+    # Runs "at 1:35 am every day"
     - cron: '35 1 * * *'
     #- cron: '0 0 * * *'
     
