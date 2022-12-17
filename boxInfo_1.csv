@@ -2,7 +2,7 @@ cashLimit,cashLimitCurrency,isCreated,isPhoneRequired,key,name,picture,useCashLi
 100,rub,true,true,{{aBoxKey}},boxName1,house_one,true,true,true,true
 0,rub,true,true,{{aBoxKey}},boxName3,lollipop,true,true,true,true
 9.99,rub,true,false,{{aBoxKey}},boxName4,mittens,false,true,false,true
-"""8,99""",rub,true,true,{{aBoxKey}},boxName5,gift,true,true,true,true
+"8,99",rub,true,true,{{aBoxKey}},boxName5,gift,true,true,true,true
 9999999999,rub,true,true,{{aBoxKey}},boxName7,cup_two,true,true,true,true
 160,currency,true,true,{{aBoxKey}},boxName9,cup_cake,true,false,true,true
 3567%88,rub,true,false,{{aBoxKey}},boxName10,cookie_tree,false,true,true,true
